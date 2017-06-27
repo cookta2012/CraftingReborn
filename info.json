@@ -1,0 +1,11 @@
+{
+	"name": "CraftingReborn",
+	"version": "0.0.0",
+	"factorio_version": "0.15",
+	"title": "Crafting Reborn",
+	"author": "cookta2012",
+	"contact": "Eventually I will upload this to GitHub",
+	"homepage": "http://www.github.com/404",
+	"description": "Crafting like you have never seen before",
+	"dependencies": ["base >= 0.15.0"]
+}
