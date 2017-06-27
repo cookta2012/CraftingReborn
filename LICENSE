@@ -1,13 +1,17 @@
-MIT License
+License (w/ Custom Exclusion) based on MIT License
 
 Copyright (c) 2017 Troy Cook (cookta2012)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+to use, copy, modify, merge, publish, and/or distribute copies of the 
+Software, and to permit persons to whom the Software is furnished to do so, 
+subject to the following conditions:
+
+The Sofware is not used in a Commercial enviroment.
+
+The Software is not sold or distributed for profit.
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
